@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+
+  <link href="styles/main.css" rel="stylesheet">
+  <!-- endbuild -->
+</head>
+
+<body>
+  <button data-time-span="1"
+  class="browserhistory__btn mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+    12 hours
+  </button>
+  <button data-time-span="30"
+  class="browserhistory__btn mdl-button mdl-js-button  mdl-js-ripple-effect mdl-button--accent">
+    30 days </button>
+  <button  data-time-span="90" 
+  class="browserhistory__btn mdl-button mdl-js-button  mdl-js-ripple-effect mdl-button--accent">
+    90 days </button>
+  <div id="browserhistory__piechart"></div>
+
+  <script src="scripts/d3.js"></script>
+  <script src="scripts/popup.js"></script>
+
+  <!-- endbuild -->
+</body>
+
+</html>

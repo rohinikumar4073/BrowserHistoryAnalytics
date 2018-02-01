@@ -1,0 +1,12 @@
+{
+  "name": "browseranalytics",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "material-design-lite": "^1.3.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}

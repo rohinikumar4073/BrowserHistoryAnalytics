@@ -1,0 +1,10 @@
+html,body {
+  padding: 20px;
+  height: 340px;
+  width:340px;
+}
+#browserhistory__piechart {
+  margin-top: 10px;
+  height: 300px;
+  width:300px;
+}

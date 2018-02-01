@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "BrowserAnalytics",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Analyzing how the time your Browser History",
+    "description": "The description of the application"
+  }
+}
